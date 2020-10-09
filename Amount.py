@@ -9,3 +9,4 @@ else:
     discount= amount*0.05
     amount=amount-discount
 print (amount)
+print ("Amount Calculated")
